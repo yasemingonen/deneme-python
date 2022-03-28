@@ -19,9 +19,16 @@ Output = 59
 """
 
 
-money_list = [75,73,60,100,120,130]
-order_list = sorted(money_list)
-print(order_list[-1]- order_list[0])
+price_list_perday = [75, 73, 60, 100, 120, 130]
+
+
+def profit_calculator(n):
+    ordered_price_list = sorted(n)
+    print(ordered_price_list[-1] - ordered_price_list[0])
+
+
+profit_calculator(price_list_perday)
+
 
 
 """
