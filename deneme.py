@@ -1,9 +1,7 @@
 """
 Coding Challenge - 2: Calculate Stock Profit
 The purpose of this coding challenge is to write a program that calculates maximum profit you could get from a stock.
-Learning Outcomes
-At the end of this coding challenge, students will be able to;
-analyze a problem, identify, and apply programming knowledge for appropriate solution.
+.
 design, implement arithmetic operators effectively in Python to solve the given problem.
 demonstrate their knowledge of algorithmic design principles by solving the problem effectively.
 Problem Statement
