@@ -19,7 +19,7 @@ Output = 59
 """
 
 
-money_list = [75,73,60,100,120,130]
+money_list = [10,20,23,22,17,30]
 order_list = sorted(money_list)
 print(order_list[-1]- order_list[0])
 
